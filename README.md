@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/107890488.svg)](https://zenodo.org/badge/latestdoi/107890488)
+
 Folders
 ------------
 - Analysis: scripts
