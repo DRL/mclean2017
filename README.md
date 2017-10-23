@@ -25,7 +25,7 @@ Supplementary_Files
 
 * **Supplementary File 4**: Comparison of the BRAKER1/soft-masked and BRAKER1/hard-masked gene predictions from *Heterorhabditis bacteriophora*. Tab-delimited text file.
 
-* **Supplementary File 5**: OrthoFinder analyses of *Heterorhabditis bacteriophora* predicted proteomes. A zipped archive (278.8 Mb) of the OrthoFinder analyses of *Heterorhabditis bacteriophora* predicted proteomes with 23 other nematode species. The archive contains the following files:
+* **Supplementary File 5**: OrthoFinder analyses of *Heterorhabditis bacteriophora* predicted proteomes. A zipped archive (20.3 Mb) of the OrthoFinder analyses of *Heterorhabditis bacteriophora* predicted proteomes with 23 other nematode species. The archive contains the following files:
     * **SF5.1** List of the proteomes included in the OrthoFinder analyses (text format file)
     * **SF5.2** List of *Heterorhabditis bacteriophora* proteins of length <30 amino acids excluded from the OrthoFinder analyses (text format file)
     * **SF5.3** The OrthoFinder output files. A zipped archive of the three OrthoFinder clustering result files (published *H. bacteriophora* + 23 species; BRAKER1/soft-masked + 23 species: published + soft-masked + 23 species).
