@@ -1,0 +1,13 @@
+Supplementary File 4: Comparison of the BRAKER1/soft-masked and BRAKER1/hard-masked gene predictions from Heterorhabditis bacteriophora.
+
+	BRAKER1/hard-masked assembly	BRAKER1/soft-masked assembly
+Number of protein coding genes predicted	14965	15747
+Mean protein length (amino-acids)	339.68	344.5
+Number of single exon genes	1738	2326
+Mean number of exons per gene	7.8	7.8
+Percentage mapping to transcriptome, publicly available RNA-seq reads:
+Set 1 Roche/454 sequencing reads	57.64%	58.03%
+Set 2 Sanger sequencing reads	83.38%	84.26%
+BUSCO score for proteome:
+Complete	92.8%	6.6%
+Fragmented	94%	4.3%
